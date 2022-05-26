@@ -1,0 +1,15 @@
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\bin\Debug\net6.0\GymMan.Domain.deps.json
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\bin\Debug\net6.0\GymMan.Domain.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\bin\Debug\net6.0\GymMan.Domain.pdb
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\bin\Debug\net6.0\GymMan.Domain.Shared.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\bin\Debug\net6.0\GymMan.Domain.Shared.pdb
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.csproj.AssemblyReference.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.AssemblyInfoInputs.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.AssemblyInfo.cs
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.csproj.CopyComplete
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\refint\GymMan.Domain.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\GymMan.Domain.pdb
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain\obj\Debug\net6.0\ref\GymMan.Domain.dll
