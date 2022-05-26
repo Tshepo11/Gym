@@ -1,0 +1,509 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.DbMigrator\\GymMan.DbMigrator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\GymMan.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\GymMan.Application.Contracts.csproj",
+        "projectName": "GymMan.Application.Contracts",
+        "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\GymMan.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Tshepo Mola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Tshepo Mola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Account.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.FeatureManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Identity.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.ObjectExtending": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.SettingManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.TenantManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.DbMigrator\\GymMan.DbMigrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.DbMigrator\\GymMan.DbMigrator.csproj",
+        "projectName": "GymMan.DbMigrator",
+        "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.DbMigrator\\GymMan.DbMigrator.csproj",
+        "packagesPath": "C:\\Users\\Tshepo Mola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.DbMigrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Tshepo Mola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\GymMan.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Application.Contracts\\GymMan.Application.Contracts.csproj"
+              },
+              "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\GymMan.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\GymMan.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj",
+        "projectName": "GymMan.Domain.Shared",
+        "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Tshepo Mola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Tshepo Mola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.IdentityServer.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\GymMan.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\GymMan.Domain.csproj",
+        "projectName": "GymMan.Domain",
+        "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\GymMan.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tshepo Mola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Tshepo Mola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain.Shared\\GymMan.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Emailing": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.IdentityServer.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.IdentityServer": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.TenantManagement.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\GymMan.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\GymMan.EntityFrameworkCore.csproj",
+        "projectName": "GymMan.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\GymMan.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Tshepo Mola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Tshepo Mola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\GymMan.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tshepo Mola\\Downloads\\GymMan\\aspnet-core\\src\\GymMan.Domain\\GymMan.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.AuditLogging.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.BackgroundJobs.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.FeatureManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.IdentityServer.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.SettingManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.TenantManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
