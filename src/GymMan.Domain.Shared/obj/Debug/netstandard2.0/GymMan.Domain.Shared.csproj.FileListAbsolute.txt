@@ -1,0 +1,11 @@
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\bin\Debug\netstandard2.0\GymMan.Domain.Shared.deps.json
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\bin\Debug\netstandard2.0\GymMan.Domain.Shared.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\bin\Debug\netstandard2.0\GymMan.Domain.Shared.pdb
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.AssemblyInfo.cs
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.dll
+C:\Users\Tshepo Mola\Downloads\GymMan\aspnet-core\src\GymMan.Domain.Shared\obj\Debug\netstandard2.0\GymMan.Domain.Shared.pdb
